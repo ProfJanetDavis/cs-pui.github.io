@@ -168,7 +168,7 @@ _[Excerpt] The Department of Mathematics and Computer Science invites applicatio
 _[Excerpt] The Computer Science Department at Whitman College is seeking candidates for a one-year position in Computer Science, at the rank of visiting instructor or visiting assistant professor, beginning August 2021. M.S. or higher education teaching experience in Computer Science or a related discipline is required.
 The successful candidate will offer multiple sections of either Introductory Computer Science in Python or Data Structures in C++ or Java, plus at least one further Computer Science course at an intermediate or advanced level. The teaching load is five course sections per year; our largest sections include about 30 students._
 - Review of applications will begin on **March 10**, 2021 and continue until the position is filled. 
-- [Link to application portal](https://whitman.bamboohr.com/jobs/)
+- [Link to application](https://whitman.bamboohr.com/jobs/view.php?id=47&source=whitman)
 
 
 ## <a name="williams">Williams College (Massachusetts)</a>
