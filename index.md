@@ -45,6 +45,7 @@ _Deadlines are interpreted differently depending on the institution. See their f
 - [Southwestern University](#su) - January 4, 2021
 - [Reed College](#reed) - January 11, 2021
 - [University of Puget Sound](#pugetsound) - February 15, 2021 **extended deadline**
+- [Whitman College](#whitman) - March 10, 2021
 - [Colorado College](#colorado) - Open until filled
 - [Milwaukee School of Engineering](#msoe) - Applications Evaluated on a Rolling Basis
 - [Westmont College](#westmont) - Applications Evaluated on a Rolling Basis
@@ -161,6 +162,13 @@ _[Excerpt] The University of Mary Washington invites applications for a tenure-t
 _[Excerpt] The Department of Mathematics and Computer Science invites applications for a tenure track position in Computer Science.  We seek a faculty member with a PhD in computer science who demonstrates professional and personal interests that extend beyond computer science, to include a commitment to life-long learning in the liberal arts and an ability to cultivate such learning in undergraduate students.  As a college rooted in the worldwide, evangelical Protestant Christian tradition, we are seeking candidates personally committed to this heritage.  Applicants should also share our commitment to greater inclusion of underrepresented groups in a field that sorely needs such diversity. The computer science program at Westmont reflects our assumption that a solid theoretical understanding provides the necessary basis for elegantly and efficiently solving problems – whether in research or development. With this pedagogical perspective in mind, the new faculty member will have opportunities to make significant contributions to the content and structure of the program._
 - Applications will be reviewed on a rolling basis.  Hiring will continue until all positions are filled.
 - [Link to application](https://www.westmont.edu/office-provost/open-positions)
+
+## <a name="whitman">Whitman College (Walla Walla, WA)
+
+_[Excerpt] The Computer Science Department at Whitman College is seeking candidates for a one-year position in Computer Science, at the rank of visiting instructor or visiting assistant professor, beginning August 2021. M.S. or higher education teaching experience in Computer Science or a related discipline is required.
+The successful candidate will offer multiple sections of either Introductory Computer Science in Python or Data Structures in C++ or Java, plus at least one further Computer Science course at an intermediate or advanced level. The teaching load is five course sections per year; our largest sections include about 30 students._
+- Review of applications will begin on **March 10**, 2021 and continue until the position is filled. 
+- [Link to application portal](https://whitman.bamboohr.com/jobs/)
 
 
 ## <a name="williams">Williams College (Massachusetts)</a>
